@@ -1,0 +1,5 @@
+http://www.airkorea.or.kr/web/detailViewDown?pMENU_NO=125
+에어코리아 대기현황 보고서
+
+https://www.data.go.kr/dataset/15007122/fileData.do
+공공데이터 건간검진 현황
